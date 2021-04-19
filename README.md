@@ -4,6 +4,9 @@ By Duc-Quang Vu, Ngan Le, Jia-Ching Wang
 
 ## Overview
 
+<p align="center">
+  <img width="500" alt="fig_method" src="https://github.com/vdquang1991/Self-KD/blob/main/model/Self-kD.png">
+</p>
 
 ## Running the code
 
